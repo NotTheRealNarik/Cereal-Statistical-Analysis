@@ -1,0 +1,13 @@
+'Quantity','Brand','Sugar'
+25,Cinnamon Toast Crunch,8.1
+25,Honey Bunches of Oats Honey Roasted,5
+25,Cheerios Original,0.9
+25,Kelloggs Corn Flakes,2.7
+35,Cinnamon Toast Crunch,11.3
+35,Honey Bunches of Oats Honey Roasted,7
+35,Cheerios Original,1.3
+35,Kelloggs Corn Flakes,3.8
+50,Cinnamon Toast Crunch,16.1
+50,Honey Bunches of Oats Honey Roasted,10
+50,Cheerios Original,1.8
+50,Kelloggs Corn Flakes,5.4

@@ -1,0 +1,13 @@
+'Type','Brand','Fiber'
+MultiGrain,Special K,2.7
+WholeGrain,Special K,0
+MultiGrain,Cheerios,2.9
+WholeGrain,Cheerios,3
+MultiGrain,Honey Bunches of Oats,1.9
+WholeGrain,Honey Bunches of Oats,2.3
+MultiGrain,Uncle Sam,3.1
+WholeGrain,Uncle Sam,5.2
+MultiGrain,Everyday Essential,0.9
+WholeGrain,Everyday Essential,2.9
+MultiGrain,Weis,3
+WholeGrain,Weis,2.8

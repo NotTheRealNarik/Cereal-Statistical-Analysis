@@ -1,0 +1,13 @@
+'Type','Brand','Sugar'
+MultiGrain,Special K,5.5 
+WholeGrain,Special K,3.7
+MultiGrain,Cheerios,5.9
+WholeGrain,Cheerios,1
+MultiGrain,Honey Bunches of Oats,5.7
+WholeGrain,Honey Bunches of Oats,6
+MultiGrain,Uncle Sam,3.1
+WholeGrain,Uncle Sam,0.3
+MultiGrain,Everyday Essential,6.4
+WholeGrain,Everyday Essential,0
+MultiGrain,Weis,6
+WholeGrain,Weis,1.9

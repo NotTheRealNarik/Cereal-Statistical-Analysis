@@ -1,0 +1,13 @@
+'Quantity','Brand','Protien'
+25,Cinnamon Toast Crunch,0.8
+25,Honey Bunches of Oats Honey Roasted,1.7
+25,Cheerios Original,2.7
+25,Kelloggs Corn Flakes,1.8
+35,Cinnamon Toast Crunch,1.1
+35,Honey Bunches of Oats Honey Roasted,2.3
+35,Cheerios Original,3.8
+35,Kelloggs Corn Flakes,2.5
+50,Cinnamon Toast Crunch,1.6
+50,Honey Bunches of Oats Honey Roasted,3.3
+50,Cheerios Original,5.4
+50,Kelloggs Corn Flakes,3.6
